@@ -19,7 +19,7 @@ and we want to implement different file operations
 (open, close, write) for different systems (windows, mac)
 
 # old approach
-Define each command in other class:
+Define each command in separate class:
 * `OpenFileCommand`
     ```
     public class OpenFileCommand extends FileCommand {
