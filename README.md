@@ -5,7 +5,7 @@ Simple implementation of command design pattern using lambda and comparison to t
 
 # preface
 Details of command design pattern could be seen here: 
-https://github.com/mtumilowicz/designPatterns
+https://github.com/mtumilowicz/designPatterns#command
 
 # project description
 We define `Command`:
